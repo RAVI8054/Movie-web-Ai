@@ -1,6 +1,7 @@
 ##AI-Powered Movie Search Chat App
- -Technologies: Node.js, Express, React, MongoDB, LangChain, Groq, OpenAI
- -Developed a full-stack AI-driven movie search chat application integrating Node.js, Express, React, and MongoDB.
+---
+ - Technologies: Node.js, Express, React, MongoDB, LangChain, Groq, OpenAI
+ - Developed a full-stack AI-driven movie search chat application integrating Node.js, Express, React, and MongoDB.
 
 Leveraged LangChain and Groq LLM to interpret natural language user input and dynamically route API calls.
 
