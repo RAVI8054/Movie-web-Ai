@@ -18,8 +18,3 @@ Integrated LLMs to autonomously parse and trigger relevant search routes without
 
 Let me know if you want to add metrics (like response time, accuracy rate, etc.) or if you want to describe your individual contribution in a team setting.
 
-
-
-
-Ask ChatGPT
-
