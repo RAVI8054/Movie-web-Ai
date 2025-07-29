@@ -1,4 +1,4 @@
-##AI-Powered Movie Search Chat App
+##AI-Powered Movie Search Chat App in db
 ---
  - Technologies: Node.js, Express, React, MongoDB, LangChain, Groq,RESTapi
  - Developed a full-stack AI-driven movie search chat application integrating Node.js, Express, React, and MongoDB.
