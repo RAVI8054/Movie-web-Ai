@@ -1,21 +1,11 @@
 ##AI-Powered Movie Search Chat App
 ---
- - Technologies: Node.js, Express, React, MongoDB, LangChain, Groq, OpenAI
+ - Technologies: Node.js, Express, React, MongoDB, LangChain, Groq,RESTapi
  - Developed a full-stack AI-driven movie search chat application integrating Node.js, Express, React, and MongoDB.
-
-Leveraged LangChain and Groq LLM to interpret natural language user input and dynamically route API calls.
-
-Implemented intelligent route detection to auto-handle user intent such as title-based, genre, rating, and year-based movie searches.
-
-Built a smart backend architecture where AI interprets messages and interacts with specific search routes for optimized database querying.
-
-Created modular, scalable RESTful APIs to interact with MongoDB movie collections based on user queries.
-
-Enabled a conversational UI in React that mimics a chat interface, offering a seamless search experience.
-
-Enhanced performance and accuracy of search with AI-powered natural language understanding and query routing.
-
-Integrated LLMs to autonomously parse and trigger relevant search routes without manual input mapping.
-
-Let me know if you want to add metrics (like response time, accuracy rate, etc.) or if you want to describe your individual contribution in a team setting.
-
+ - Leveraged LangChain and Groq LLM to interpret natural language user input and dynamically route API calls.
+ - Implemented intelligent route detection to auto-handle user intent such as title-based, genre, rating, and year-based movie searches.
+ - Built a smart backend architecture where AI interprets messages and interacts with specific search routes for optimized database querying.
+ - Created modular, scalable RESTful APIs to interact with MongoDB movie collections based on user queries.
+ - Enabled a conversational UI in React that mimics a chat interface, offering a seamless search experience.
+ - Enhanced performance and accuracy of search with AI-powered natural language understanding and query routing.
+ - Integrated LLMs to autonomously parse and trigger relevant search routes without manual input mapping.
